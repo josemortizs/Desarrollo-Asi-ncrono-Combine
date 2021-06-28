@@ -4,5 +4,9 @@
         <page name='1_ClosuresScaping'/>
         <page name='3_FuncionesAltoNivel'/>
         <page name='2_TiposDeResultado'/>
+        <page name='4_FuturosYPromesas'/>
+        <page name='5_Publicadores'/>
+        <page name='6_OperadoresBasicos'/>
+        <page name='7_Subscriptores'/>
     </pages>
 </playground>
