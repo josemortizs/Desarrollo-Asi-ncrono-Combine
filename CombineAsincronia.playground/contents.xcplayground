@@ -8,5 +8,7 @@
         <page name='5_Publicadores'/>
         <page name='6_OperadoresBasicos'/>
         <page name='7_Subscriptores'/>
+        <page name='8_SujetosDeValorActual'/>
+        <page name='9_SujetosDePasoATraves'/>
     </pages>
 </playground>
