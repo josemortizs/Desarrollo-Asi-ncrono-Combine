@@ -10,5 +10,9 @@
         <page name='7_Subscriptores'/>
         <page name='8_SujetosDeValorActual'/>
         <page name='9_SujetosDePasoATraves'/>
+        <page name='10_CancelandoSubscripcion'/>
+        <page name='11_OperadoresTransformacion'/>
+        <page name='12_OperadoresFiltrado'/>
+        <page name='13_OperadoresCombinacionComparticion'/>
     </pages>
 </playground>
