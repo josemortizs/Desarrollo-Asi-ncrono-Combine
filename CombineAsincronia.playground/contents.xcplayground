@@ -14,5 +14,7 @@
         <page name='11_OperadoresTransformacion'/>
         <page name='12_OperadoresFiltrado'/>
         <page name='13_OperadoresCombinacionComparticion'/>
+        <page name='14_OperadoresSecuencia'/>
+        <page name='15_OperadoresQueLanzanErrores'/>
     </pages>
 </playground>
