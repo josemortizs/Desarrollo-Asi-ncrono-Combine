@@ -16,5 +16,7 @@
         <page name='13_OperadoresCombinacionComparticion'/>
         <page name='14_OperadoresSecuencia'/>
         <page name='15_OperadoresQueLanzanErrores'/>
+        <page name='16_OperadoresDeDepuracion'/>
+        <page name='17_RedesPorFuturos'/>
     </pages>
 </playground>
