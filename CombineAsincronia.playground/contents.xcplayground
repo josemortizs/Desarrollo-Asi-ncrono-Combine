@@ -18,5 +18,7 @@
         <page name='15_OperadoresQueLanzanErrores'/>
         <page name='16_OperadoresDeDepuracion'/>
         <page name='17_RedesPorFuturos'/>
+        <page name='18_RedesPorPublicadores'/>
+        <page name='19_GestionandoErrores'/>
     </pages>
 </playground>

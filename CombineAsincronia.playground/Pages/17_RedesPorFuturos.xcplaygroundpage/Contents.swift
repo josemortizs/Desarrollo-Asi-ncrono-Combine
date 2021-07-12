@@ -16,6 +16,7 @@ func getImage(url:URL) -> Future<Data, ErroresRed> {
                 promise(.failure(.general))
                 return
             }
+            
             if response.statusCode == 200 {
                 promise(.success(data))
             } else {
