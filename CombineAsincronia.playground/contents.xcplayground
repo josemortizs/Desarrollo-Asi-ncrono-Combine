@@ -20,5 +20,6 @@
         <page name='17_RedesPorFuturos'/>
         <page name='18_RedesPorPublicadores'/>
         <page name='19_GestionandoErrores'/>
+        <page name='20_NotificationCenter'/>
     </pages>
 </playground>
