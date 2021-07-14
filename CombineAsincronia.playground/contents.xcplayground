@@ -21,5 +21,6 @@
         <page name='18_RedesPorPublicadores'/>
         <page name='19_GestionandoErrores'/>
         <page name='20_NotificationCenter'/>
+        <page name='21_Timer'/>
     </pages>
 </playground>
