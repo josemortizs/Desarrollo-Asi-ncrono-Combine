@@ -22,5 +22,7 @@
         <page name='19_GestionandoErrores'/>
         <page name='20_NotificationCenter'/>
         <page name='21_Timer'/>
+        <page name='22_KVO'/>
+        <page name='MVVM_SwiftUI'/>
     </pages>
 </playground>
