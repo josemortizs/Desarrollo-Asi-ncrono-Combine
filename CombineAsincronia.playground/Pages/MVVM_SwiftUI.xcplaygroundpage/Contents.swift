@@ -46,7 +46,7 @@ struct ClockView:View {
             Text("Desde el OBJECT WILL CHANGE")
                 .font(.headline)
             Text("\(horaOWC)")
-                .frame(maxWidth: 200)
+                .frame(minWidth: 300)
                 .onReceive(clockVM.objectWillChange) {
                     horaOWC = clockVM.hora
                 }

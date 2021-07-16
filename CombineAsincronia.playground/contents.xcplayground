@@ -24,5 +24,6 @@
         <page name='21_Timer'/>
         <page name='22_KVO'/>
         <page name='MVVM_SwiftUI'/>
+        <page name='CodableCombine'/>
     </pages>
 </playground>
